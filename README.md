@@ -69,6 +69,7 @@ CREATE TABLE users (
     id TEXT,
     email TEXT
 );
+```
 
 ## 📸 Project Screenshots
 
@@ -77,5 +78,6 @@ CREATE TABLE users (
 
 > **Note:** Screenshots are for demonstration purposes only.  
 > Sensitive information has been anonymized or blurred.
+
 
 
