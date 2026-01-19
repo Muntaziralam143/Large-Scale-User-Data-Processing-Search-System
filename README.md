@@ -69,3 +69,13 @@ CREATE TABLE users (
     id TEXT,
     email TEXT
 );
+
+## 📸 Project Screenshots
+
+### Dataset Processing Output
+![Processing Output](./screenshots/output.jpeg)
+
+> **Note:** Screenshots are for demonstration purposes only.  
+> Sensitive information has been anonymized or blurred.
+
+
